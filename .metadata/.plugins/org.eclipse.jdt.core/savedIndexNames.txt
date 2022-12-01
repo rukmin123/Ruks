@@ -1,4 +1,0 @@
-INDEX VERSION 1.131+C:\Users\DEEL\Desktop\RuksgitHub\Ruks\.metadata\.plugins\org.eclipse.jdt.core
-4104964402.index
-1372677264.index
-1865797976.index
